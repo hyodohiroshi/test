@@ -1,3 +1,5 @@
 あいうえお
 while
 for
+
+cd aaaa
